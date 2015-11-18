@@ -1,3 +1,4 @@
 printf("Hello World!")
 printf("Saluton al cxiuj!")
 printf("Saluton!")
+printf("Saluton, mia kara amiko!")
